@@ -19,14 +19,10 @@
 
 <body>
 
-<div class="container"><!-- Main container -->
-	
-	<div class="row"><!-- Main row -->
-		
+<div class="container"><!-- Main container -->	
+	<div class="row"><!-- Main row -->		
 		<div class="col-md-12"><!-- Inner row -->
-
 			<div class="row"><!-- ROW 1 -->
-
 				<div class="col-md-1">
 					<!-- NULL Left -->
 				</div>
